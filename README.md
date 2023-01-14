@@ -42,7 +42,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![OUTPUT](./image/2023-01-14.png)
+![2023-01-14](https://user-images.githubusercontent.com/119390134/212460586-95d6c0db-ad0e-4a7c-a9ac-b6ed920e03ea.png)
 
 ## RESULT:
 The program for implementing Simple Web Server has been completed successfully
